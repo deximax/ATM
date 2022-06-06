@@ -1,4 +1,4 @@
-print("********************\nERDEM BANK sistemine hoşgeldiniz\n********************")
+print("********************\nDEX BANK sistemine hoşgeldiniz\n********************")
 
 print("""
 
